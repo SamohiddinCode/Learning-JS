@@ -3,10 +3,10 @@ My self-study repositories with various programming languages
 
 🟢 Data Types
 
--String/n
--Number
--Bigint
--Boolean
+-String  
+-Number  
+-Bigint  
+-Boolean  
 -Undefined
 -Null
 -Symbol
