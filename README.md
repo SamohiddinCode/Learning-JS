@@ -7,7 +7,7 @@ My self-study repositories with various programming languages
 -Number  
 -Bigint  
 -Boolean  
--Undefined
--Null
--Symbol
--Object
+-Undefined  
+-Null  
+-Symbol  
+-Object  
